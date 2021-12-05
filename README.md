@@ -1,7 +1,3 @@
-# RaspberryPi-Web
-
-Playing around with RFID and database connections
-
 Connected GPIO pins from raspberry pi to RC255
 ---------------------------------------
 System is based off of a Raspberry Pi B3+ with a RC522 RFID module
